@@ -1,3 +1,3 @@
 # Projects
 
-This is for showcasing my all projects and foe downloading source code from github
+This is for showcasing my all projects and for downloading source code from github
